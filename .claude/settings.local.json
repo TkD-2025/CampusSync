@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(chmod +x /Users/akashaaprasad/Downloads/CampusSync/node_modules/.bin/vite)",
+      "Bash(pkill -f \"vite\")"
+    ]
+  }
+}
